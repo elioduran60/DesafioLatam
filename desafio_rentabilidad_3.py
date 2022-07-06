@@ -21,7 +21,3 @@ print('\nSus Utilidades brutas::')
 print('Utilidades del año pasado:',utlianterior)
 print('Utilidades actuales son:',utilidades)
 print(f'Razon entre las dos Utilidades:{(razon):.2f}')
-
-
-
-
